@@ -1,0 +1,1 @@
+This folder caontains all the basic Sorting Algorithms used in this project.
