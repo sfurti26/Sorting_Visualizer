@@ -1,4 +1,7 @@
 # Sorting_Visualizer
+You can check out the website using this link:\
+https://sfurti-sorting-visualizer.netlify.app/ \
+\
 Helps us visualize how each major sorting algorithm works.\
 Throughout the sorting process , every elements accessed can be methodically viewed using different colors for better visualization and understanding.\
 Contains: \
